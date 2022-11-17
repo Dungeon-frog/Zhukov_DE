@@ -14,6 +14,6 @@
         <Grid Background="#FFE1E4FF"/>
         <Image Source="Resources/beauty_logo.png" HorizontalAlignment="Left" Width="57"/>
         <TextBlock HorizontalAlignment="Left" Margin="382,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-        <Frame Grid.Row="1"></Frame>
+        <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
     </Grid>
 </Window>

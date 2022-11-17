@@ -16,16 +16,18 @@ using System.Windows.Shapes;
 namespace Zhukov_DE
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для FirstPage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class FirstPage : Page
     {
-        public MainWindow()
+        public FirstPage()
         {
             InitializeComponent();
-            MF = MainFrame;
-            MF.Navigate(new FirstPage());
         }
-        public static Frame MF;
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow.MF.Navigate( new SecondPage());
+        }
     }
 }
