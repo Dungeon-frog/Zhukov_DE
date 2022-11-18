@@ -11,9 +11,11 @@
             <RowDefinition Height="60"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <Grid Background="#FFE1E4FF"/>
+        <Grid Background="#FFE1E4FF">
+            <Button x:Name="BtnBack" Content="Back" HorizontalAlignment="Left" Margin="706,22,0,0" VerticalAlignment="Top" Width="76" Click="BtnBack_Click" Background="#FFFF4A6D"/>
+        </Grid>
         <Image Source="Resources/beauty_logo.png" HorizontalAlignment="Left" Width="57"/>
         <TextBlock HorizontalAlignment="Left" Margin="382,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-        <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
+        <Frame ContentRendered="MFContentRendered" NavigationUIVisibility="Hidden"  Grid.Row="1" x:Name="MainFrame"></Frame>
     </Grid>
 </Window>

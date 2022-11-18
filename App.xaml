@@ -4,6 +4,18 @@
              xmlns:local="clr-namespace:Zhukov_DE"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="ButtonStyle1">
+            <Setter Property="Button.Background" Value="#FFFF4A6D"/>
+            
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="TextBox.FontFamily" Value="Tahoma"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="TextBlock.FontFamily" Value="Tahoma"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Button.FontFamily" Value="Tahoma"/>
+        </Style>
     </Application.Resources>
 </Application>

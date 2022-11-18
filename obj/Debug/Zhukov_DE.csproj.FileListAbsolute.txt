@@ -18,3 +18,30 @@ C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.GenerateResource.cac
 C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.CoreCompileInputs.cache
 C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\Zhukov_DE.exe
 C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\Zhukov_DE.pdb
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\Zhukov_DE.exe.config
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\Zhukov_DE.exe
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\Zhukov_DE.pdb
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.AssemblyReference.cache
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\FirstPage.g.cs
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\MainWindow.g.cs
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\SecondPage.g.cs
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\App.g.cs
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE_MarkupCompile.cache
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE_MarkupCompile.lref
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\FirstPage.baml
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\MainWindow.baml
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\SecondPage.baml
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.g.resources
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.Properties.Resources.resources
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.GenerateResource.cache
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.CoreCompileInputs.cache
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.exe
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.pdb
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\App.baml
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE_Content.g.cs
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\EntityFramework.dll
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\EntityFramework.xml
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\ru\EntityFramework.resources.dll
+C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.CopyComplete

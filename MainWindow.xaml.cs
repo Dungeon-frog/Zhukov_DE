@@ -27,5 +27,22 @@ namespace Zhukov_DE
             MF.Navigate(new FirstPage());
         }
         public static Frame MF;
+
+        private void BtnBack_Click(object sender, RoutedEventArgs e)
+        {
+            MF.GoBack();
+        }
+        private void MFContentRendered(object sender, EventArgs e)
+        {
+            if (MF.CanGoBack)
+            {
+                BtnBack.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                BtnBack.Visibility = Visibility.Hidden;
+            }
+        
+        }
     }
 }
