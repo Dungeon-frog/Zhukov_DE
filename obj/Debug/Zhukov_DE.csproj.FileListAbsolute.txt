@@ -45,3 +45,11 @@ C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\EntityFramework.xml
 C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\EntityFramework.SqlServer.xml
 C:\Group\4-1 IS\Zhukov\Zhukov_DE\bin\Debug\ru\EntityFramework.resources.dll
 C:\Group\4-1 IS\Zhukov\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.CopyComplete
+C:\Users\Gobba\Desktop\Zhukov_DE\bin\Debug\EntityFramework.dll
+C:\Users\Gobba\Desktop\Zhukov_DE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gobba\Desktop\Zhukov_DE\bin\Debug\EntityFramework.xml
+C:\Users\Gobba\Desktop\Zhukov_DE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gobba\Desktop\Zhukov_DE\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\Zhukov_DE_Content.g.cs
+C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\App.baml
+C:\Users\Gobba\Desktop\Zhukov_DE\obj\Debug\Zhukov_DE.csproj.CopyComplete
